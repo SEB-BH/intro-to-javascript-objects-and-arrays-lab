@@ -33,8 +33,6 @@ Cookie
 
 ### Exercise 2: Update the waiting list
 
-**Learning objective:** Update an array and use `push()` and `pop()`.
-
 Start with:
 
 ```js
@@ -61,8 +59,6 @@ waitingCustomers // ['Aisha', 'Ali', 'Noor']
 
 ### Exercise 3: Print a numbered menu
 
-**Learning objective:** Iterate through an array using a regular `for` loop.
-
 Start with:
 
 ```js
@@ -85,8 +81,6 @@ Use a **regular `for` loop** to print:
 - Your loop should still work if another drink is added.
 
 ### Exercise 4: Calculate the prices
-
-**Learning objective:** Use `forEach()` to calculate a total and count matching elements.
 
 Start with:
 
@@ -136,8 +130,6 @@ Available seats: 24
 
 ### Exercise 6: Update a drink
 
-**Learning objective:** Change, add, and delete object properties.
-
 Start with:
 
 ```js
@@ -170,8 +162,6 @@ Using dot notation:
 
 ### Exercise 7: Check an order
 
-**Learning objective:** Use object properties in calculations and conditions.
-
 Start with:
 
 ```js
@@ -184,8 +174,8 @@ const order = {
 };
 ```
 
-1. Calculate the order total using `price` and `quantity`. Store it in `orderTotal`.
-2. Log:
+1. Calculate the order total using `price` and `quantity`. Store it in `orderTotal` (`orderTotal` is a new property you should add to the object).
+2. Using template literal notation and your `order` object, log:
 
 ```text
 Mariam ordered 3 Sandwich items.

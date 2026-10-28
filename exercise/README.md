@@ -185,15 +185,11 @@ const order = {
    - Otherwise, log `'Waiting for payment'`.
 4. Change `order.isPaid` to `true` and run your code again to check the other message.
 
-**Requirements:** Use the object’s properties. No arrays or loops are needed.
-
 ---
 
 ## Part 3: Arrays & Objects Together
 
 ### Exercise 8: Plan a study session
-
-**Learning objective:** Access and update an array stored inside an object.
 
 Start with:
 
@@ -226,8 +222,6 @@ JavaScript Practice will take place in Lab 3.
 
 ### Exercise 9: Manage the products
 
-**Learning objective:** Read and update objects stored inside an array.
-
 Start with:
 
 ```js
@@ -258,8 +252,6 @@ Juice costs 3 BD.
 **Requirement:** Read each name and price from the corresponding object.
 
 ### Exercise 10: Check the study group
-
-**Learning objective:** Process an array of objects stored inside another object.
 
 Start with:
 

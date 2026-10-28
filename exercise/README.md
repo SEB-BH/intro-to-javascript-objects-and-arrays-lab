@@ -8,8 +8,6 @@
 
 ### Exercise 1: Read the menu
 
-**Learning objective:** Create an array and access elements using indexes and `.length`.
-
 Create an array named `menuItems` containing these strings, in this order:
 
 - `'Tea'`
@@ -117,8 +115,6 @@ Items costing 4 or more: 3
 ## Part 2: Objects
 
 ### Exercise 5: Describe the café
-
-**Learning objective:** Create an object and read its properties.
 
 Create an object named `cafe` with these properties:
 

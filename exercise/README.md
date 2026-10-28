@@ -204,7 +204,7 @@ const studySession = {
 1. Log the first topic.
 2. Add `'Objects'` to the `topics` array using `push()`.
 3. Log the number of topics.
-4. Use `forEach()` to print each topic on a separate line.
+4. Use `forEach()` to print each topic.
 5. Change `room` to `'Lab 3'`.
 6. Log:
 

@@ -100,7 +100,7 @@ const prices = [2, 5, 3, 6, 4];
 2. Create a variable named `expensiveItemCount`, starting at `0`.
 3. Use **`forEach()`** to:
    - Add every price to `totalPrice`.
-   - Count how many prices are **greater than or equal to `4`**.
+   - Count how many prices are **greater than or equal to `4`** using `expensiveItemCount`.
 4. Log both results after the iteration finishes.
 
 **Expected results:**

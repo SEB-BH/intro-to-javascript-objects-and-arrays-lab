@@ -132,8 +132,6 @@ Campus Café is located in Building A.
 Available seats: 24
 ```
 
-Then log the value of `isOpen`.
-
 **Requirement:** Build the messages using the object’s properties.
 
 ### Exercise 6: Update a drink

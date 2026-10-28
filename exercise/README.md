@@ -206,7 +206,7 @@ const studySession = {
 3. Log the number of topics.
 4. Use `forEach()` to print each topic.
 5. Change `room` to `'Lab 3'`.
-6. Log:
+6. Use the `studySession` object to log:
 
 ```text
 JavaScript Practice will take place in Lab 3.

@@ -237,7 +237,7 @@ const products = [
 { name: 'Juice', price: 3 }
 ```
 
-4. Use a regular `for` loop or `forEach()` to print every product in this format:
+4. Use a `for` loop **or** `forEach()` to print every product in this format:
 
 ```text
 Tea costs 2 BD.
@@ -245,8 +245,6 @@ Sandwich costs 5 BD.
 Cookie costs 1 BD.
 Juice costs 3 BD.
 ```
-
-**Requirement:** Read each name and price from the corresponding object.
 
 ### Exercise 10: Check the study group
 

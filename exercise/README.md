@@ -207,16 +207,13 @@ const studySession = {
 4. Use `forEach()` to print each topic.
 5. Change `room` to `'Lab 3'`.
 6. Use the `studySession` object to log:
-
-```text
-JavaScript Practice will take place in Lab 3.
-```
-
-**Expected topics after the update:**
-
-```js
-['Variables', 'Arrays', 'Objects']
-```
+  ```text
+  JavaScript Practice will take place in Lab 3.
+  ```
+7. Log the `topics`. **Expected topics after the update:**
+  ```js
+  ['Variables', 'Arrays', 'Objects']
+  ```
 
 > 💡 Follow the structure: `studySession` is an object, and `studySession.topics` is an array.
 

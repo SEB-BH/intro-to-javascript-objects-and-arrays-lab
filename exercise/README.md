@@ -176,12 +176,10 @@ const order = {
 
 1. Calculate the order total using `price` and `quantity`. Store it in `orderTotal` (`orderTotal` is a new property you should add to the object).
 2. Using template literal notation and your `order` object, log:
-
-```text
-Mariam ordered 3 Sandwich items.
-Order total: 12
-```
-
+  ```text
+  Mariam ordered 3 Sandwich items.
+  Order total: 12
+  ```
 3. Use an `if/else` statement:
    - If the order is paid, log `'Ready to prepare'`.
    - Otherwise, log `'Waiting for payment'`.
